@@ -1,3 +1,3 @@
-#BASIC CRUD DynamoDB AWS Syntax 
+# BASIC CRUD DynamoDB AWS Syntax 
 
 ### We are using DocumentClient Class
